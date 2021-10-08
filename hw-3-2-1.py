@@ -1,5 +1,5 @@
 # author: LM 10/06/21
-average_grade = int(input("Enter in the numerical average you had this quarter. "))
+average_grade = float(input("Enter in the numerical average you had this quarter. "))
 
 if average_grade < 60:
     print("You got an F")
